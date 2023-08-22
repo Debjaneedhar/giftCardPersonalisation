@@ -1,0 +1,36 @@
+.title {
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 20px;
+    color: goldenrod;
+
+}
+
+.subTitle {
+    text-align: center;
+    padding-bottom: 20px;
+}
+.generatedOrderNumber{
+    font-weight: bold;
+}
+#orderJsonField {
+    height: 665px;
+    width: 500px;
+}
+#logoImg{
+    height: 50px;
+    align-content: center;
+}
+
+#orderJsonField{
+    font-size: small;
+}
+
+#orderJsonLabelDiv{
+    padding: 10px;
+    font-weight: bold;
+}
+
+#updateSuccessAlert{
+    display: none;
+}
